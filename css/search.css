@@ -26,7 +26,7 @@ a {
 .left-title {
   display: inline-block;
   color: white;
-  margin-top: 12%;
+  margin-top: 8%;
   margin-left: 3%;
   text-align: center;
 }
@@ -37,4 +37,15 @@ a {
 
 .title {
   display: inline-block;
+}
+
+.container {
+  margin: 2em;
+  margin-left: 3% !important;
+  padding: 1em;
+  height: 20vh;
+  width: 60em !important;
+  background-color: white;
+  border-radius: 2em;
+  color: gray;
 }
